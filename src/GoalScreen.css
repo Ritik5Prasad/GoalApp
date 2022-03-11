@@ -1,0 +1,22 @@
+.button{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align: right;
+   border-radius: 5px;
+   color: brown
+}
+.Bar{
+  justify-content: space-around;
+  flex-direction: row;
+  font-weight: bold;
+}
+  .goal-list li{
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 5px;
+    
+  }
+  .input{
+    align-items: center;
+    justify-content: center;
+  }
